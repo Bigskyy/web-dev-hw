@@ -1,5 +1,10 @@
-How is the web different than the internet?
-Briefly describe how the internet works. ("Magic.")
-What is a directory, and what is its relationship to files?
-Why is using a VCS beneficial?
-State at least one thing you found interesting this topic, or that you didn't know before.
+How is the web different than the internet? The web consists of documents.pages, and software that are transmitted over the internets.
+
+Briefly describe how the internet works. ("Magic.") The Internet is known as global network of computers linked together by telephone wires, satellite links, etc. All computers on the internet can be classified into two categories, servers and browsers. Servers are where most of the data on the Internet lives. Specialized computers bank information and share information with other servers, and make this information accessible to the generalpopulation.
+
+What is a directory, and what is its relationship to files? In the world of computing, a directory is a file system cataloging structure which contains references to other computer files, and possibly other directories. Many computers the directories are known as folders, or analogous, drawers,to a workbench and he traditional office filing cabinet.
+
+Why is using a VCS beneficial? VCS is an valuable tool with many benefits for a collaborative team software workflow. Any software project that has more than one developer maintaining source code files should absolutely use a VCS. Additionally, sole-maintainer projects will also greatly benefit from utilizing a VCS
+
+State at least one thing you found interesting this topic, or that you didn't know before.How easy it would be to start my own github 
+account. 
