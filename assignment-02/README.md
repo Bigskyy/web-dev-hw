@@ -6,6 +6,7 @@ My decision to take Intro to Web Design is due in part to my desire to learn as 
 I hope to learn:
 1. How to set up a website.
 2. How to understand Web Development
-3. To understand and appreciate the effort and design put forth into web designing.
 
-HI!
+
+A site I visit often
+[Moodle at the U of Montana](https://moodle.umt.edu/)
