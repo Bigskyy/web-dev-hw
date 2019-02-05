@@ -7,3 +7,5 @@ I hope to learn:
 1. How to set up a website.
 2. How to understand Web Development
 3. To understand and appreciate the effort and design put forth into web designing.
+
+HI!
