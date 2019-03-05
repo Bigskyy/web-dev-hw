@@ -1,4 +1,4 @@
-#Assignment 6
+# Assignment 6
 ## Marcia Heydt
 
 1. Input forms are everywhere.  Any time I enter data to a web site, such as commenting on a purchase on Amazon.
