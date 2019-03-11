@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Marcia Heydt" >
+    <meta name="description" content="" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+    table, th, td {
+      border: 1px solid black;
+    }
+</style>
+  </head>
+  <body>
+    <h1>Hello from Marcia's Animal Emporium</h1>
+    <address>
+      Some street address<br/>
+      Missoula MT, 59801
+    </address>
+    <p>
+      <a href = "mailto:widgetsanonymous@umconnect.umt.edu">
+        Contact Us
+      </a>
+    </p>
+    <p>
+      <table>
+        <tr>
+          <td>Open Hours</td><td>24x7x365</td>
+        </tr>
+        <tr>
+          <td>Phone #</td><td>555-1212</td>
+        </tr>
+      </table>
+    </p>
+    <form action="http://www.example.com/subscribe.php" method="POST" id="subscribe-form" class="basic-forms" >
+        <p>What's your email address?<input type="text" id="email" autofocus /></p>
+        <p>
+          What year were you born?
+          <input type="text" name="name" id="test-date" maxlength="4" size="4" value="1989" />
+        </p>
+        <p>What type of person are you?</p>
+          <input type="radio" name="animaltype" value="Cat" /> Cat
+          <br />
+          <input type="radio" name="animaltyoe" value="Dog" checked />Dog
+        </p>
+        <p>
+          Comments or Concerns:<br>
+          <textarea name="comments" id="test-textarea">Enter up to 500 characters...</textarea>
+        </p>
+
+        <input type="submit" name="subscribe" value="Subscribe" />
+    </form>
+  </body>
+</html>
