@@ -1,0 +1,166 @@
+
+h1 {
+    border-left: 10px solid #f76b38;
+    padding-left: .5em;
+    background-color: white;
+    font-size: 5em;
+  }
+  
+  h2 {
+    border-left: 10px solid #f76b38;
+    padding-left: .5em;
+    background-color: white;
+    font-size: 5em;
+  }
+
+  .canvas {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    border: 2px solid #0E0E10;
+    background-color: #F1F2E4;
+    margin-left: 0px;
+    z-index: 2;
+    padding:5px;
+  }
+
+.frame1 {
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    border: 2px solid black;
+    background-color: tan;
+    margin: 25px;
+    z-index: 1;
+}
+
+.frame2 {
+    position: absolute;
+    width: 520px;
+    height: 520px;
+    border: 2px solid #0E0E10;
+    background-color: black;
+    margin: 15px;
+    z-index: 1;
+}
+
+.ss {
+    position: absolute;
+    margin: 0px;
+    z-index:0;
+    background-color: #F1F2E4;
+    border: 1px solid black;
+}
+
+.gray {
+    background-color: #333333;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.clear {
+    background-color: white;
+    opacity: 1;
+}
+
+.s1 {
+    left: 0px;
+    top: 0px;
+    width: 120px;
+    height: 160px;
+    offset-position: 
+}
+
+.s2 {
+    left: 122px;
+    top: 0px;
+    width: 142px;
+    height: 40px;
+}
+
+.s3 {
+    left: 266px;
+    top: 0px;
+    width: 253px;
+    height: 190px;
+}
+
+.s4 {
+    left: 0px;
+    top: 162px;
+    width: 90px;
+    height: 250px;
+}
+
+.s5 {
+    left: 0px;
+    top: 362px;
+    width: 90px;
+    height: 155px;
+}
+
+.s6 {
+    left: 92px;
+    top: 162px;
+    width: 28px;
+    height: 28px;
+}
+
+.s7 {
+    left: 122px;
+    top: 42px;
+    width: 142px;
+    height: 146px;
+}
+
+.s8 {
+    left: 92px;
+    top: 192px;
+    width: 240px;
+    height: 240px;
+}
+
+.s9 {
+    left: 92px;
+    top: 435px;
+    width: 160px;
+    height: 82px;
+}
+
+.s10 {
+    left: 253px;
+    top: 435px;
+    width: 225px;
+    height: 82px;
+}
+
+.s11 {
+    left: 480px;
+    top: 193px;
+    width: 39px;
+    height: 325px;
+}
+
+.s12 {
+    left: 334px;
+    top: 192px;
+    width: 143px;
+    height: 240px;
+}
+
+.s13 {
+    left: 334px;
+    top: 292px;
+    width: 143px;
+    height: 140px;
+}
